@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>okenqq.github.io/oollqqqqcc/</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            background: #000;
+            min-height: 100vh;
+            font-family: 'Times New Roman', Times, serif;
+        }
+        .top-text {
+            color: #ff0000;
+            font-size: 14pt;
+            font-weight: bold;
+            font-family: 'Times New Roman', Times, serif;
+            text-align: left;
+            padding: 10px;
+            text-shadow: none;
+        }
+        .bottom-text {
+            color: #000000;
+            font-size: 12pt;
+            font-family: 'Times New Roman', Times, serif;
+            text-align: left;
+            padding: 10px;
+            margin-top: 60px;
+        }
+    </style>
+</head>
+<body>
+    <div class="top-text">d2FpdGluZyB1bnRpbCAwNi4wNy4yMDI2IA==</div>
+    <div class="bottom-text">HINT: -... .- ... . -.... ....-</div>
+    <div class="bottom-text" style="margin-top: 5px;">HINT 2: 3 steps</div>
+
+    <script>
+        const linkText = "oollqqqqcc";
+        if (window.location.hash !== '#' + linkText) {
+            window.history.replaceState(null, '', '#' + linkText);
+        }
+    </script>
+</body>
+</html>
